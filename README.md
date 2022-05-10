@@ -8,7 +8,7 @@ National University of Singapore School of Computing (**NUS Computing**) Summer 
 ![](under_the_skin.jpeg)
 - Motors & sensors connected to Aduino
 - Camera, control & connectivity (Wi-Fi) on Raspberry Pi
-- Rasberry Pi powered by USB power bank (5V)
+- Raspberry Pi powered by USB power bank (5V)
 - Aduino motors powered by AA batteries
 
 # Features
