@@ -7,14 +7,14 @@ National University of Singapore School of Computing (**NUS Computing**) Summer 
 # Hardware
 ![](under_the_skin.jpeg)
 - Motors & sensors connected to Aduino
-- Camera, control & connectivity (Wi-Fi) on Rasberry Pi
+- Camera, control & connectivity (Wi-Fi) on Raspberry Pi
 - Rasberry Pi powered by USB power bank (5V)
 - Aduino motors powered by AA batteries
 
 # Features
 - **Following guiding marks** on the ground using IR sensors
 - **Obsticle avoidance** using the ultrasonic sensor
-- **Real-time video stream** from Rasberry Pi (Python script)
+- **Real-time video stream** from Raspberry Pi (Python script)
 - **Look for animals and describe them**
   - OpenCV for enhancing video
   - YOLO3 for object detection
