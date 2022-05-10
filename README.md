@@ -2,7 +2,7 @@
 # Animal Radar
 An animal-seeking robot with visual intelligence
 
-National University of Singapore, School of Computing, Summer Workshop: a team project
+National University of Singapore (NUS) School of Computing Summer Workshop (2019): a team project
 
 # Hardware
 ![](under_the_skin.jpeg)
