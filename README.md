@@ -1,6 +1,7 @@
 ![](animal_radar.jpeg)
 # Animal Radar
 An animal-seeking robot with visual intelligence
+
 National University of Singapore, School of Computing, Summer Workshop: a team project
 
 # Hardware
