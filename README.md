@@ -7,6 +7,9 @@ National University of Singapore, School of Computing, Summer Workshop: a team p
 ![](under_the_skin.jpeg)
 - Motors & sensors connected to Aduino
 - Camera, control & connectivity (Wi-Fi) on Rasberry Pi
+- Rasberry Pi powered by USB power bank (5V)
+- Aduino motors powered by AA batteries
+
 # Features
 - **Following guiding marks** on the ground using IR sensors
 - **Obsticle avoidance** using the ultrasonic sensor
