@@ -1,4 +1,3 @@
-![](animal_radar.jpeg)
 # Animal Radar
 An animal-seeking robot with visual intelligence
 
